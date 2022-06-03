@@ -1,0 +1,38 @@
+{
+  "name": "lesson-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megamgistr/db-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megamgistr/db-lesson/issues"
+  },
+  "homepage": "https://github.com/Megamgistr/db-lesson#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "juice": "^8.0.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-passport": "^4.1.4",
+    "koa-router": "^10.1.1",
+    "mongoose": "^6.3.4",
+    "mongoose-beautiful-unique-validation": "^7.1.1",
+    "nodemailer": "^6.7.5",
+    "nodemailer-html-to-text": "^3.2.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "passport-local": "^1.0.0",
+    "passport-vkontakte": "^0.5.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
